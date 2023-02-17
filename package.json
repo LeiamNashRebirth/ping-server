@@ -1,5 +1,5 @@
 {
-  "name": "ping-server",
+  "name": "uptbot",
   "version": "1.0.0",
   "description": "Ping-server is a free tool used to monitor your system. It monitors your system every 1 second and alerts you if your system are down",
   "main": "index.js",
