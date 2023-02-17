@@ -32,4 +32,9 @@ example:
 ping.on("https://web.leiamnash.repl.co");
 ```
 
+<br>
+<p align="center">
+Ping Server is a package uptime monitor constantly checks to see if your system is up and running. If the system has issues or goes down, an alarm will be sent by the ping server. Hardware problems, hosting provider issues, and human errors are some of the reasons for downtime.
+  </p>
+
 <br> • [LeiamNash](https://www.facebook.com/LeiamNashRebrth)
