@@ -1,0 +1,32 @@
+{
+  "name": "ping-server",
+  "version": "1.0.0",
+  "description": "Ping-server is a free tool used to monitor your system. It monitors your system every 1 second and alerts you if your system are down",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeiamNashRebirth.git"
+  },
+  "keywords": [
+    "uptime", 
+    "stayalive", 
+    "monitor", 
+    "ping", 
+    "server"
+  ],
+  "author": "LeiamNash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeiamNashRebirth/issues"
+  },
+  "homepage": "https://github.com/LeiamNashRebirt#readme",
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "axios": "^1.3.3",
+    "chalk": "^5.2.0",
+    "node-fetch": "^3.2.6"
+  }
+}
