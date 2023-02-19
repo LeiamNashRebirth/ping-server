@@ -1,28 +1,30 @@
 {
   "name": "uptbot",
-  "version": "1.0.0",
-  "description": "Ping-server is a free tool used to monitor your system. It monitors your system every 1 second and alerts you if your system are down",
+  "version": "1.0.3",
+  "description": "UptBot is a free tool used to monitor your system. It monitors your system every 1 second and alerts you if your system are down",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LeiamNashRebirth.git"
+    "url": "https://github.com/LeiamNashRebirth"
   },
   "keywords": [
     "uptime", 
     "stayalive", 
     "monitor", 
     "ping", 
-    "server"
+    "server",
+    "leiamnash",
+    "uptbot"
   ],
   "author": "LeiamNash",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/LeiamNashRebirth/issues"
+    "url": "https://github.com/LeiamNashRebirth/uptbot/issues"
   },
-  "homepage": "https://github.com/LeiamNashRebirt#readme",
+  "homepage": "https://web.leiamnash.repl.co",
   "dependencies": {
     "@types/node": "^18.0.6",
     "axios": "^1.3.3",
